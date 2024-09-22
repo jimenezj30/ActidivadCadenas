@@ -1,7 +1,7 @@
+#Actividad 1
 #1
 name = "luis"
 age = 19
-
 favouriteFood = "carne y pollo"
 text = f"Hola! Mi nombre es {name}. Yo tengo {age} años, y mi comida favorita es {favouriteFood}"
 print(text)

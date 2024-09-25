@@ -17,16 +17,7 @@ revenueGrowthPercent = 18.33206078
 print( f"Las ventas de la empresa lactea aumentaron un {round(increaseSalesPercent,2)}% y los ingresos crecieron un {round(revenueGrowthPercent,2)}%")
 
 #4
-Titulo4 = "4 punto"
-print(Titulo4.center(20, "_"))
-secretMessage = "aS!Ir waQm VL!eDafrcnXin=gS .P,yytahgoln.!"
-omitircaracteres = secretMessage [3:]
-indicees = [0, 2, 4, 6, 7, 9, 11, 13, 15, 17, 19, 21, 23,25, 27,29, 31, 33, 35, 37, 39]
-
-#crea mensaje a traves de los indices
-omitircaracteres = ''.join(omitircaracteres[i] for i in indicees)
-print(omitircaracteres)
-
+#secretMessage = "aS!Ir waQm VL!eDafrcnXin=gS .P,yytahgoln.!"
 
 #5
 text = "El nombre 'Python' viene dado por la aficion de Van Rossum al grupo Monty Python"
